@@ -3,7 +3,7 @@
 <h1>Analyzing the Content of Dreams</h1>
 
 <h3>Project File</h3>
-[Google Presentation Slides](https://bit.ly/38JbFMf)
+<a href="https://bit.ly/38JbFMf">Google Presentation Slides</a>
 
 ### How Project 3 Notebooks are Structured
 
